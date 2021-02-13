@@ -8,16 +8,16 @@ theme: jekyll-theme-chirpy
 baseurl: ''
 
 # the HTML language tag › https://www.w3.org/International/questions/qa-choosing-language-tags
-lang: en-US
+lang: ko-KR
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: "Choi Juhwan's blog"                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: gold32317@gmail.com   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -25,23 +25,24 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://c-juhwan.github.io'
 
-author: your_full_name                  # change to your full name
+author: Choi Juhwan                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: c-juhwan             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Choi Juhwan                  # it will shows as the copyright owner in Footer
+  email: gold32317@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/c-juhwan       # change to your github homepage
+    - https://www.facebook.com/ChoiJuhwan2257
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -81,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/78f988a0-55b9-4554-a86a-16ed63478fc7/avatar.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210213T115740Z&X-Amz-Expires=86400&X-Amz-Signature=ca5b00151a428406873a4631543c20fccf0c134785a428f06b523306fd0e21e1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22avatar.jpeg%22
 
 # boolean type, the global switch for ToC in posts.
 toc: true
