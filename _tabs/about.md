@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
-# Choi Juhwan - Profile
+# **Choi Juhwan** - Profile
 ---
 ## Personal
 ### Information
