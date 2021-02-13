@@ -13,11 +13,11 @@ order: 4
 - Member of Mensa Korea
 
 ### Contact
-- Blog: https://c-juhwan.github.io
-- Github: https://github.com/c-juhwan
-- Facebook: https://www.facebook.com/ChoiJuhwan2257/
+- Blog: <https://c-juhwan.github.io>
+- Github: <https://github.com/c-juhwan>
+- Facebook: <https://www.facebook.com/ChoiJuhwan2257>
 - Clubhouse: @c_juhwan
-- E-Mail: gold32317@gmail.com
+- E-Mail: <gold32317@gmail.com>
 
 ## Education
 ### High school
@@ -36,13 +36,13 @@ order: 4
   - Fluent to use written & spoken English <br>
     in understanding others and expressing my idea
 - Japanese
-  - Able to speak and understand little bit of Japanese
+  - Able to speak and understand Japanese slightly
 - French
   - Having some interests on French
 
 ### Programming
 - C/C++
-  - Studied since high School
+  - Studied since high school
   - Ability for undergraduate assignments and projects
 - Python
   - Mainly used at Artificial Intelligence course
@@ -69,9 +69,9 @@ order: 4
 
 ### In a short-term
 - [ ] Start with Taking an online lesson
-  - https://www.edwith.org/deepnlp
+  - [ ] [딥러닝을 이용한 자연어 처리](https://www.edwith.org/deepnlp>)
 - [ ] Read and understand books about NLP
-  - [밑바닥부터 시작하는 딥러닝 2, 사이토 고키](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241745&orderClick=LEa&Kc=)
-  - [한국어 임베딩, 이기창](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161753508&orderClick=LEa&Kc=)
+  - [ ] [밑바닥부터 시작하는 딥러닝 2, 사이토 고키](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241745&orderClick=LEa&Kc=)
+  - [ ] [한국어 임베딩, 이기창](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161753508&orderClick=LEa&Kc=)
 - [ ] Working on personal project
   -  Upload to Github
