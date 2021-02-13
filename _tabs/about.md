@@ -8,7 +8,8 @@ order: 4
 ---
 ## Personal
 ### Information
-- Lives in Seoul, South Korea
+- Undergraduate student
+- Living in Seoul, South Korea
 - Member of Mensa Korea
 
 ### Contact
@@ -22,6 +23,7 @@ order: 4
 ### High school
 - Studied at Ulsan Anione High School
   - Department of Computer Game Development
+
 ### Undergraduate
 - Studying at Chung-Ang University
   - School of Electrical and Electronics Engineering
@@ -34,9 +36,10 @@ order: 4
   - Fluent to use written & spoken English <br>
     in understanding others and expressing my idea
 - Japanese
-  - Able to speak and listen a little bit of Japanese
+  - Able to speak and understand little bit of Japanese
 - French
   - Having some interests on French
+
 ### Programming
 - C/C++
   - Studied since high School
@@ -49,6 +52,8 @@ order: 4
   - Ability for undergraduate assignments and projects
 - Git version control
   - Experienced for personal projects, including my blog
+
+
 ## Objective & Goal
 ### In a long-term
 - Achieving technological advances in the field of natural language processing
@@ -56,7 +61,17 @@ order: 4
   - Which will lead to better understanding of human language for computer
   - And result in better communication between people and computers
 - Work as NLP Engineer
-### In a short-term
+
+### In a mid-term
 - Studying at graduate school   
   - To get more experience about NLP
   - To become a specialist
+
+### In a short-term
+- [ ] Start with Taking an online lesson
+  - https://www.edwith.org/deepnlp
+- [ ] Read and understand books about NLP
+  - [밑바닥부터 시작하는 딥러닝 2, 사이토 고키](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241745&orderClick=LEa&Kc=)
+  - [한국어 임베딩, 이기창](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161753508&orderClick=LEa&Kc=)
+- [ ] Working on personal project
+  -  Upload to Github
