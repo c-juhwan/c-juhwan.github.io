@@ -13,10 +13,6 @@ lang: ko-KR
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Seoul
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
 title: "Choi Juhwan's blog"                          # the main title
