@@ -20,10 +20,6 @@ order: 4
 - E-Mail: <gold32317@gmail.com>
 
 ## Education
-### High school
-- Studied at Ulsan Anione High School
-  - Department of Computer Game Development
-
 ### Undergraduate
 - Studying at Chung-Ang University
   - School of Electrical and Electronics Engineering
