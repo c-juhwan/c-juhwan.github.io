@@ -17,7 +17,7 @@ timezone: Asia/Seoul
 # --------------------------
 title: "Choi Juhwan's blog"                          # the main title
 
-tagline: gold32317@gmail.com   # it will display as the sub-title
+tagline: cjuhwan99@gmail.com   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Choi Juhwan's personal blog
@@ -35,7 +35,7 @@ twitter:
 
 social:
   name: Choi Juhwan                  # it will shows as the copyright owner in Footer
-  email: gold32317@gmail.com             # change to your email address
+  email: cjuhwan99@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage

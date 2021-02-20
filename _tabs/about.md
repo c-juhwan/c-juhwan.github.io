@@ -17,7 +17,7 @@ order: 4
 - Github: <https://github.com/c-juhwan>
 - Facebook: <https://www.facebook.com/ChoiJuhwan2257>
 - Clubhouse: @c_juhwan
-- E-Mail: <gold32317@gmail.com>
+- E-Mail: <cjuhwan99@gmail.com>
 
 ## Education
 ### Undergraduate
