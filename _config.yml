@@ -80,7 +80,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/78f988a0-55b9-4554-a86a-16ed63478fc7/avatar.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210213T115740Z&X-Amz-Expires=86400&X-Amz-Signature=ca5b00151a428406873a4631543c20fccf0c134785a428f06b523306fd0e21e1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22avatar.jpeg%22
+avatar: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/78f988a0-55b9-4554-a86a-16ed63478fc7/avatar.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210220T095340Z&X-Amz-Expires=86400&X-Amz-Signature=9b54de083412f1af6e2481d6976ba961602bd70cbb78d06017c42d3c528a3a6a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22avatar.jpeg%22
 
 # boolean type, the global switch for ToC in posts.
 toc: true
